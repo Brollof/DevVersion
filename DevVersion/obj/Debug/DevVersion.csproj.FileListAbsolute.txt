@@ -1,0 +1,8 @@
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\bin\Debug\DevVersion.exe.config
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\bin\Debug\DevVersion.exe
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\bin\Debug\DevVersion.pdb
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\obj\Debug\DevVersion.csprojResolveAssemblyReference.cache
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\obj\Debug\DevVersion.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\obj\Debug\DevVersion.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\obj\Debug\DevVersion.exe
+C:\Users\Olaf\Desktop\Projekty\DevVersion\DevVersion\obj\Debug\DevVersion.pdb
